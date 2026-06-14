@@ -1,6 +1,6 @@
-##to run the project do these steps :
+#to run the project do these steps :
 ```
-git clone https://github.com/THREE-JS-TEAM/Billiard
+git clone https://github.com/THREE-JS-TEAM/Billiard.git
 ```
 ```
 npm i
